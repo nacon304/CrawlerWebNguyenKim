@@ -1,0 +1,2 @@
+[scrapy]
+settings = quotes_js_scraper.settings

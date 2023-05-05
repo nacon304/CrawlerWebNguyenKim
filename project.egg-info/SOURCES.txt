@@ -1,0 +1,14 @@
+README.md
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+quotes_js_scraper/__init__.py
+quotes_js_scraper/items.py
+quotes_js_scraper/middlewares.py
+quotes_js_scraper/pipelines.py
+quotes_js_scraper/settings.py
+quotes_js_scraper/spiders/__init__.py
+quotes_js_scraper/spiders/quotes.py
